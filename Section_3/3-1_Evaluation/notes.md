@@ -22,7 +22,7 @@
 * Mean Squared Error (MSE)
 * Mean Absolute Error (MAE)
 
-##### MSE and MAE
+##### [MSE](https://en.wikipedia.org/wiki/Mean_squared_error) and [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error)
 
 * Give us good overall picture of predicitons
 * MSE takes the squares of the errors
@@ -30,7 +30,7 @@
 * MAE maintains same units
 * Directly comparable to the values
 
-##### R-Squared
+##### [R-Squared](https://en.wikipedia.org/wiki/Coefficient_of_determination)
 
 * Alternatively called R(superscript 2) or R2
 * Coefficient of determination
@@ -107,3 +107,16 @@
 * Values of each element is corresponding count
 
 ![alt text](confusion_matrix.png)
+
+#### [ROC Curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+* Get overall picture of performance of binary classifiers
+* Plot the recall versus false positive rate
+* Threshold represent various boundaries or rankings
+* Make a prediction for the two classes based
+  * Probability
+  * Ranking
+  * Score
+
+![alt text](ROC_Curve_example.png)
+![alt text](ROC_Curve_example2.png)
