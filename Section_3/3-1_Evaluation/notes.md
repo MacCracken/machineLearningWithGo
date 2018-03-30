@@ -59,7 +59,7 @@
 * Provide complete representation of model performance
 * Techniques
   * Confusion matrices
-  * AUC - Area Under the Curve
+  * [AUC](https://en.wikipedia.org/wiki/AUC) - Area Under the Curve
   * ROC - Reciever Operating Characteristic
 
 #### Types of Individual Evaluation Metrics
