@@ -54,7 +54,7 @@
 * Perfom a statistical test to calculate probability of variables
 * Historgram provides general idea
 
-#### Making Decision
+#### Decision Making
 
 * Visually exploring the correlations
 * Dependent variable and all choices
