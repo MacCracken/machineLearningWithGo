@@ -46,7 +46,6 @@
   * Range
   * Variability
 
-
 ##### Alternates
 
 * Use a statistical tool - quantile-quantile (q-q) plot
@@ -59,4 +58,3 @@
 * Visually exploring the correlations
 * Dependent variable and all choices
 * make scatter plots
-
