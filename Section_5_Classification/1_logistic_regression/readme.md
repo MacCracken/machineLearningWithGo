@@ -5,7 +5,7 @@
 * A simple and interpretable model
 * Great first choice when solving classification problems
 
-![alt text](logistic_forumla.png)
+![alt text](logistic_formula.png)
 
 # Modeling p
 
