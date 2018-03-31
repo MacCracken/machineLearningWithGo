@@ -1,4 +1,4 @@
-# Notes
+# [Non-Linear Regression](https://en.wikipedia.org/wiki/Nonlinear_regression)
 
 ## Modeling Dependent Variable
 
@@ -6,7 +6,7 @@
   * Powers
   * Exponentials
 
-### Other linear Regression Techniques
+### Other Regression Techniques
 
 * Help overcome assumptions and weaknesses
 * Include [ridge regression](https://en.wikipedia.org/wiki/Tikhonov_regularization) and [lasso regression](https://en.wikipedia.org/wiki/Lasso_(statistics))
