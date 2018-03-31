@@ -5,12 +5,12 @@
 * Provide a safe a productive option for data scientists
 * Consider and try linear regression to predict a continuous variable
 
-y = __m__x + __b__
+y = ___mx__ + __b__
 
 ## Ordinary Least Squares (OLS)
 
-* Use to determine __m__ and __b__
-* pick a value for __m__ and __b__
+* Use to determine ___m__ and ___b__
+* pick a value for ___m__ and ___b__
 * Measure vertical distance
 * Distances - errors or residuals
 
