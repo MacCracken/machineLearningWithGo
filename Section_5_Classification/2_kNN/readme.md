@@ -1,4 +1,4 @@
-# k-Neareast Neighbors
+# [k-Neareast Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
 * Easiest model algorithms to grasp
 * Consider other similar records
