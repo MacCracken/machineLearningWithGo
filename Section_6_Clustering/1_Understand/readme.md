@@ -1,6 +1,6 @@
 # Understanding Clustering
 
-## Clustering
+## [Clustering]
 
 * Own set of terms
 * Define and utilize some distance or similarity
@@ -16,4 +16,5 @@
 
 ![alt text](silhouette_coefficient.png)
 
+[Clustering]: https://en.wikipedia.org/wiki/Cluster_analysis
 [silhouette coefficient]: https://en.wikipedia.org/wiki/Silhouette_(clustering)
