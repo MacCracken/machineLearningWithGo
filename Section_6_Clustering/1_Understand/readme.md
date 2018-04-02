@@ -12,6 +12,8 @@
 
 * Stuck with evaluating how well our clustering technique performs
 * Evaluate clustering by making similarity and dissimilarity measurements
-* The [silhouette coefficient](https://en.wikipedia.org/wiki/Silhouette_(clustering))
+* The [silhouette coefficient][1]
 
 ![alt text](silhouette_coefficient.png)
+
+[1]: https://en.wikipedia.org/wiki/Silhouette_(clustering)
