@@ -5,7 +5,6 @@
 * Adjusted during each iteration
 
 ![a](cluster_example.png)
-{:.some-css-class width="200"}
 
 ## Requirements
 
@@ -15,7 +14,6 @@
 * Serve as our starting point for the algorithm
 
 ![b](cluster_iteration_example.png)
-{:.some-css-class width="200"}
 
 ### Steps
 
