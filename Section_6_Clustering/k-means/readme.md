@@ -4,7 +4,7 @@
 * Data points are clustered around cluster centroids
 * Adjusted during each iteration
 
-![cluster example]
+![a](cluster_example.png width=50%)
 
 ## Requirements
 
@@ -13,7 +13,7 @@
 * Randomly choose x1 and x2 locations of k centroids
 * Serve as our starting point for the algorithm
 
-![cluster iteration]
+![b](cluster_iteration_example.png width=50%)
 
 ### Steps
 
@@ -21,6 +21,4 @@
 * Calculate the mean x1 and x2 locations within each cluster
 * Update each centroid's location to calculated x1 and x2 locations
 
-[cluster example]: cluster_example.png {width=50%}
-[cluster iteration]: cluster_iteration_example.png {width=50%}
 [k-mean Clustering]: https://en.wikipedia.org/wiki/K-means_clustering
