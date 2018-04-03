@@ -21,6 +21,6 @@
 * Calculate the mean x1 and x2 locations within each cluster
 * Update each centroid's location to calculated x1 and x2 locations
 
-[cluster example]: cluster_example.png =100x20
-[cluster iteration]: cluster_iteration_example.png =100x20
+[cluster example]: cluster_example.png {width=50%}
+[cluster iteration]: cluster_iteration_example.png {width=50%}
 [k-mean Clustering]: https://en.wikipedia.org/wiki/K-means_clustering
