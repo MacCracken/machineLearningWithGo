@@ -1,5 +1,6 @@
 Remaining Sections
-6 Clustering
 7 Time Series and Anomaly Detection
+ * Time Series Statisics
+ * Anomaly Detection
 8 Neural Networks
 9 Deploying Models on Remote Machines
