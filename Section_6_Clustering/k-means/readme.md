@@ -4,7 +4,8 @@
 * Data points are clustered around cluster centroids
 * Adjusted during each iteration
 
-![a](cluster_example.png width=50%)
+![a](cluster_example.png)
+{:.some-css-class width="200"}
 
 ## Requirements
 
@@ -13,7 +14,8 @@
 * Randomly choose x1 and x2 locations of k centroids
 * Serve as our starting point for the algorithm
 
-![b](cluster_iteration_example.png width=50%)
+![b](cluster_iteration_example.png)
+{:.some-css-class width="200"}
 
 ### Steps
 
